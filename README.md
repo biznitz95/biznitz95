@@ -7,4 +7,4 @@
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: brodriguez-velez@ucmerced.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love PUBG 👾
