@@ -1,3 +1,4 @@
+#f1f8ff, $bg-blue-light
 ### Hello, I'm Bizet and this is my Github! 👋
 
 - 🔭 I’m currently working on iOS Development and Data Science Engineering at Cognoa
