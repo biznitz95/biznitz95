@@ -9,5 +9,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love PUBG 👾
 
-Here's my wesbite: Biznitz95.github.io
-Here's my LinkedIn: https://www.linkedin.com/in/bizet-rodriguez-b5b102129/
+### LINKS 
+
+- Here's my wesbite: Biznitz95.github.io
+- Here's my LinkedIn: https://www.linkedin.com/in/bizet-rodriguez-b5b102129/
