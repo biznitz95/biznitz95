@@ -11,5 +11,5 @@
 
 ### LINKS 
 
-- Here's my wesbite: Biznitz95.github.io
+- Here's my wesbite: https://biznitz95.github.io/
 - Here's my LinkedIn: https://www.linkedin.com/in/bizet-rodriguez-b5b102129/
