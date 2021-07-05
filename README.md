@@ -1,6 +1,5 @@
 ### Hello, I'm Bizet and this is my Github! 👋
 
-- 🔭 I’m currently working at Apple
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on iOS Projects
 - 🤔 I’m looking for help with SwiftUI 😅
